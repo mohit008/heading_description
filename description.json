@@ -1,0 +1,166 @@
+{
+  "root": {
+    "description": [
+      {
+        "definition": "Process ID",
+        "title": "PID"
+      },
+      {
+        "definition": "Priority of the process ",
+        "title": "PR"
+      },
+      {
+        "definition": "CPU Usage",
+        "title": "CPU%"
+      },
+      {
+        "definition": "State (or possibly status) R=Running, S=Sleeping",
+        "title": "S"
+      },
+      {
+        "definition": "Number of threads",
+        "title": "#THR"
+      },
+      {
+        "definition": "Virtual Set Size : Indicates how much virtual memory is associated with the process.",
+        "title": "VSS"
+      },
+      {
+        "definition": "Resident Set Size : Indicates how many physical pages are associated with the process.",
+        "title": "RSS"
+      },
+      {
+        "definition": "Policy -- Determines how an app should be treated by Android's memory. FG : Foreground, BG : Background",
+        "title": "PCY"
+      },
+      {
+        "definition": "Name of the user that started the task",
+        "title": "UID"
+      },
+      {
+        "definition": "Name of Process",
+        "title": "Name"
+      },
+      {
+        "definition": "Percentage of the CPU for user processes",
+        "title": "User %"
+      },
+      {
+        "definition": "Percentage of the CPU for system processes",
+        "title": "System %"
+      },
+      {
+        "definition": "Percentage of the CPU Input Output Wait",
+        "title": "IOW %"
+      },
+      {
+        "definition": "Percentage of the CPU time spent servicing/handling hardware Interrupt Requests",
+        "title": "IRQ %"
+      },
+      {
+        "definition": "Percentage of CPU time spent on low priority processes and been niced.",
+        "title": "Nice"
+      },
+      {
+        "definition": "CPU for system processes. The  time  the  CPU  has  spent  running  the  kernel  and  its processes.",
+        "title": "Sys"
+      },
+      {
+        "definition": "CPU time spent idle",
+        "title": "Idle"
+      },
+      {
+        "definition": "Input Output Wait",
+        "title": "IOW"
+      },
+      {
+        "definition": "CPU time spent servicing/handling hardware Interrupt Requests",
+        "title": "IRQ"
+      },
+      {
+        "definition": "CPU time spent servicing/handling software Interrupt Requests",
+        "title": "SIRQ"
+      },
+      {
+        "definition": "",
+        "title": "r"
+      },
+      {
+        "definition": "",
+        "title": "b"
+      },
+      {
+        "definition": "",
+        "title": "free"
+      },
+      {
+        "definition": "",
+        "title": "mapped"
+      },
+      {
+        "definition": "",
+        "title": "anon"
+      },
+      {
+        "definition": "",
+        "title": "slab"
+      },
+      {
+        "definition": "",
+        "title": "in"
+      },
+      {
+        "definition": "",
+        "title": "cs"
+      },
+      {
+        "definition": "",
+        "title": "flt"
+      },
+      {
+        "definition": "Time spent running non kernel code. (user time, including nice time)",
+        "title": "us"
+      },
+      {
+        "definition": "",
+        "title": "ni"
+      },
+      {
+        "definition": "Time spent running kernel code. (system time)",
+        "title": "sy"
+      },
+      {
+        "definition": "Time spent idle.",
+        "title": "id"
+      },
+      {
+        "definition": "Time spent waiting for IO.",
+        "title": "wa"
+      },
+      {
+        "definition": "",
+        "title": "ir"
+      },
+      {
+        "definition": "Virtual set size",
+        "title": "Vss"
+      },
+      {
+        "definition": "resident set size ",
+        "title": "Rss"
+      },
+      {
+        "definition": "proportional set size",
+        "title": "Pss"
+      },
+      {
+        "definition": "unique set size ",
+        "title": "Uss"
+      },
+      {
+        "definition": "Package name",
+        "title": "cmdline"
+      }
+    ]
+  }
+}
