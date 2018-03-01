@@ -146,15 +146,15 @@
         "title": "Vss"
       },
       {
-        "definition": "resident set size ",
+        "definition": "Resident set size ",
         "title": "Rss"
       },
       {
-        "definition": "proportional set size",
+        "definition": "(Proportional set size)The Pss Total includes all Zygote allocations (weighted by their sharing across processes, as described in the PSS definition above)",
         "title": "Pss"
       },
       {
-        "definition": "unique set size ",
+        "definition": "(Unique set size) The Private Dirty number is the actual RAM committed to only your app’s heap, composed of your own allocations and any Zygote allocation pages that have been modified since forking your app’s process from Zygote.",
         "title": "Uss"
       },
       {
